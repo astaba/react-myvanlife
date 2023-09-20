@@ -8,7 +8,7 @@ import {
 
 export const Header = () => {
   const activeStyle = ({ isActive }) => {
-    return isActive ? "active-navLink" : "";
+    return isActive ? "active-navLink" : null;
   };
 
   const logout = () => {

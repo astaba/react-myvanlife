@@ -43,7 +43,7 @@ const HostVanLayout = () => {
         <nav>
           <ul className="navList">
             <li>
-              <NavLink to="." end={true} className={activeStyle}>
+              <NavLink to="." end className={activeStyle}>
                 Details
               </NavLink>
             </li>

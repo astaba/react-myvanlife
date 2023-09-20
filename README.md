@@ -1,6 +1,8 @@
 # ⚛️ Practice React Router 6 ⚛️
 
-From Bob Ziroll <https://github.com/scrimba/learn-react-router-6>
+## Live site
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a58a9af6-cf2a-469a-b413-8313553f2a69/deploy-status)](https://coruscating-squirrel-9a1d9c.netlify.app/)
 
 ## :warning: Please read this carefully
 
@@ -87,3 +89,5 @@ React Router is the most popular routing library for React applications and one 
 - useActionData
 - Protected Routes
 - Deploying with Netlify
+
+<https://github.com/scrimba/learn-react-router-6>
